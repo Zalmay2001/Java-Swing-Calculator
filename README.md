@@ -1,5 +1,9 @@
 # 🧮 Java Swing Calculator
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Release](https://img.shields.io/badge/Release-v1.0.0-blue)
+
 A fully functional desktop calculator built with **Java Swing**. Clean UI, responsive buttons, and support for basic arithmetic operations – perfect for demonstrating GUI development skills.
 
 <p align="center">
@@ -32,24 +36,23 @@ A fully functional desktop calculator built with **Java Swing**. Clean UI, respo
 ## 🛠️ Tech Stack
 - **Java** (JDK 8+)
 - **Swing** – GUI framework
-- **NetBeans** – IDE (project files included)
+- **NetBeans** (Optional – project files included)
 
 ---
-## 📦 Download & Run
 
-1. Go to the **Releases** tab above.
+## 📦 Download & Run (For End Users)
+
+1. Go to the **[Releases](https://github.com/Zalmay2001/Java-Swing-Calculator/releases)** tab above.
 2. Download `Calculator.jar`.
 3. Double-click the file – no installation required!
 
-## 🚀 How to Run
+---
 
-### Option 1 – NetBeans (recommended)
-1. Open the project folder in NetBeans.
-2. Right‑click the project → **Run**.
+## 🚀 Run from Source (For Developers)
 
-### Option 2 – Command Line
-Navigate to the `src` folder and compile:
-```bash
-cd src
-javac calculator1/*.java
-java calculator1.Main   # replace "Main" with your actual main class name
+If you want to compile and run the source code manually:
+
+1. Clone the repository and navigate to the project folder:
+   ```bash
+   git clone https://github.com/Zalmay2001/Java-Swing-Calculator.git
+   cd Java-Swing-Calculator
