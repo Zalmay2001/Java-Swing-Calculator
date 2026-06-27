@@ -35,6 +35,11 @@ A fully functional desktop calculator built with **Java Swing**. Clean UI, respo
 - **NetBeans** – IDE (project files included)
 
 ---
+## 📦 Download & Run
+
+1. Go to the **Releases** tab above.
+2. Download `Calculator.jar`.
+3. Double-click the file – no installation required!
 
 ## 🚀 How to Run
 
