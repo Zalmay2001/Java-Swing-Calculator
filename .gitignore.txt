@@ -1,22 +1,17 @@
-# Compiled class files
+# Compiled Java
 *.class
+build/
+dist/
+nbbuild/
+nbdist/
 
-# Package files
-*.jar
-*.war
-*.ear
+# NetBeans private files
+nbproject/private/
+nbactions.xml
 
-# IDE files (IntelliJ, Eclipse, VS Code)
-.idea/
-*.iml
-.settings/
-.project
-.classpath
-.vscode/
+# Logs
+*.log
 
 # OS junk
 Thumbs.db
 .DS_Store
-
-# Logs
-*.log
