@@ -1,0 +1,17 @@
+# Compiled Java
+*.class
+build/
+dist/
+nbbuild/
+nbdist/
+
+# NetBeans private files
+nbproject/private/
+nbactions.xml
+
+# Logs
+*.log
+
+# OS junk
+Thumbs.db
+.DS_Store
